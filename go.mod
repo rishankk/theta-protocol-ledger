@@ -1,4 +1,4 @@
-module github.com/thetatoken/theta
+module github.com/thetatoken/theta-protocol-ledger
 
 require (
 	github.com/aerospike/aerospike-client-go v1.36.0
